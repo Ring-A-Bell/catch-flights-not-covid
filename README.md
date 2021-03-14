@@ -1,1 +1,0 @@
-# catch-flights-not-covid
