@@ -24,6 +24,7 @@ This project consists of three modules with a user interface; the modules are, n
 
 ### Setting up the project
 
+#### Download and unzip to your preferred directory
 ##### To get the pictures for the dataset:
 Run `faces_dataset.py`\
 This will open your webcam and take about 50 pictures of you. (This entire project was developed and tested on PyCharm, we recommend you to test it on the same IDE)
